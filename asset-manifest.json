@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FigureProgrammableInterface/static/css/main.3182508a.chunk.css",
+    "main.js": "/FigureProgrammableInterface/static/js/main.ca2376f5.chunk.js",
+    "main.js.map": "/FigureProgrammableInterface/static/js/main.ca2376f5.chunk.js.map",
+    "runtime-main.js": "/FigureProgrammableInterface/static/js/runtime-main.154454bb.js",
+    "runtime-main.js.map": "/FigureProgrammableInterface/static/js/runtime-main.154454bb.js.map",
+    "static/js/2.aeed08f8.chunk.js": "/FigureProgrammableInterface/static/js/2.aeed08f8.chunk.js",
+    "static/js/2.aeed08f8.chunk.js.map": "/FigureProgrammableInterface/static/js/2.aeed08f8.chunk.js.map",
+    "static/js/3.36866fcc.chunk.js": "/FigureProgrammableInterface/static/js/3.36866fcc.chunk.js",
+    "static/js/3.36866fcc.chunk.js.map": "/FigureProgrammableInterface/static/js/3.36866fcc.chunk.js.map",
+    "index.html": "/FigureProgrammableInterface/index.html",
+    "static/css/main.3182508a.chunk.css.map": "/FigureProgrammableInterface/static/css/main.3182508a.chunk.css.map",
+    "static/js/2.aeed08f8.chunk.js.LICENSE.txt": "/FigureProgrammableInterface/static/js/2.aeed08f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.154454bb.js",
+    "static/js/2.aeed08f8.chunk.js",
+    "static/css/main.3182508a.chunk.css",
+    "static/js/main.ca2376f5.chunk.js"
+  ]
+}
