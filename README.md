@@ -1,12 +1,8 @@
-# Getting Started with FRESCO AppBuilder
-
-This project allows users to create FRESCO applications using a GUI interface.
+# Getting Started with the FigureProgrammableInterface
 
 ## Usage
 
 Build the program with `yarn`, then run the program with `yarn start`.
-Once the app runs, right click on the page to access FRESCO modules. 
-The "application" button on the right pane reveals the corresponding FRESCO application script, which will update as new modules are added and connected in the page.
 
 ## Available Scripts
 
